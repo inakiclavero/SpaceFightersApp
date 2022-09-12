@@ -1,0 +1,8 @@
+#include "il2cpp-config.h"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\BlobReader.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\Debugger.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\VmStringUtils.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System.Threading\Interlocked.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System\Math.cpp"

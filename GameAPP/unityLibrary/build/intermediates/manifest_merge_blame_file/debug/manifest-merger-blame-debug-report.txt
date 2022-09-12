@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="24"
+7-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="31" />
+8-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-feature android:glEsVersion="0x00020000" />
+10-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:19:3-52
+10-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:19:17-49
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:20:3-65
+12-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:20:20-62
+13    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+13-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:21:3-84
+13-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:21:20-81
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:22:3-64
+14-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:22:20-61
+15
+16    <uses-feature
+16-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:23:3-88
+17        android:name="android.hardware.touchscreen"
+17-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:23:17-60
+18        android:required="false" />
+18-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:23:61-85
+19    <uses-feature
+19-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:24:3-99
+20        android:name="android.hardware.touchscreen.multitouch"
+20-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:24:17-71
+21        android:required="false" />
+21-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:24:72-96
+22    <uses-feature
+22-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:25:3-108
+23        android:name="android.hardware.touchscreen.multitouch.distinct"
+23-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:25:17-80
+24        android:required="false" />
+24-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:25:81-105
+25
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:26:3-63
+26-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:26:20-60
+27
+28    <uses-feature
+28-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:27:3-85
+29        android:name="android.hardware.camera.ar"
+29-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:27:17-58
+30        android:required="true" />
+30-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:27:59-82
+31    <uses-feature
+31-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:28:3-83
+32        android:name="com.google.ar.core.depth"
+32-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:28:17-56
+33        android:required="true" />
+33-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:28:57-80
+34
+35    <application>
+35-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:2:3-18:17
+36        <activity
+36-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:5-10:16
+37            android:name="com.unity3d.player.UnityPlayerActivity"
+37-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:15-68
+38            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+38-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:182-363
+39            android:exported="true"
+39-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:435-458
+40            android:hardwareAccelerated="false"
+40-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:399-434
+41            android:launchMode="singleTask"
+41-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:150-181
+42            android:process=":unityplayer"
+42-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:459-489
+43            android:resizeableActivity="false"
+43-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:364-398
+44            android:screenOrientation="fullSensor"
+44-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:111-149
+45            android:theme="@style/UnityThemeSelector" >
+45-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:3:69-110
+46            <intent-filter>
+46-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:4:7-7:23
+47                <action android:name="android.intent.action.MAIN" />
+47-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:5:9-61
+47-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:5:17-58
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:6:9-69
+49-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:6:19-66
+50            </intent-filter>
+51
+52            <meta-data
+52-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:8:7-82
+53                android:name="unityplayer.UnityActivity"
+53-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:8:18-58
+54                android:value="true" />
+54-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:8:59-79
+55            <meta-data
+55-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:9:7-78
+56                android:name="android.notch_support"
+56-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:9:18-54
+57                android:value="true" />
+57-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:9:55-75
+58        </activity>
+59
+60        <meta-data
+60-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:11:5-69
+61            android:name="unity.splash-mode"
+61-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:11:16-48
+62            android:value="0" />
+62-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:11:49-66
+63        <meta-data
+63-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:12:5-74
+64            android:name="unity.splash-enable"
+64-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:12:16-50
+65            android:value="True" />
+65-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:12:51-71
+66        <meta-data
+66-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+67            android:name="unity.allow-resizable-window"
+67-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+68            android:value="False" />
+68-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+69        <meta-data
+69-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+70            android:name="notch.config"
+70-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+71            android:value="portrait|landscape" />
+71-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+72        <meta-data
+72-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:15:5-101
+73            android:name="unity.build-id"
+73-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:15:16-45
+74            android:value="b9b1c9ea-e8a1-4997-800f-67d3927b42d8" />
+74-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:15:46-98
+75        <meta-data
+75-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:16:5-88
+76            android:name="unityplayer.SkipPermissionsDialog"
+76-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:16:16-64
+77            android:value="true" />
+77-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:16:65-85
+78        <meta-data
+78-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:17:5-77
+79            android:name="com.google.ar.core"
+79-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:17:16-49
+80            android:value="required" />
+80-->B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\AndroidManifest.xml:17:50-74
+81    </application>
+82
+83</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2105" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16331994645247658" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1878415300546448" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_profiles.xml" value="0.25416666666666665" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_settings.xml" value="0.4" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/activity_update_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/custom_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/SpaceInvadersGameTFG/GameAPP/app/src/main/res/layout/item_user.xml" value="0.8" />
+        <entry key="..\:/repotfg/Nueva carpeta (2)/SpaceFighters/GameAPP/app/src/main/res/layout/custom_list.xml" value="0.7041666666666667" />
+        <entry key="..\:/repotfg/Nueva carpeta (2)/SpaceFighters/GameAPP/app/src/main/res/layout/item_user.xml" value="0.6009963768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "B:\repotfg\Nueva carpeta (2)\SpaceFighters\GameAPP\unityLibrary\src\main\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"
